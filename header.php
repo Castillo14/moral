@@ -61,7 +61,9 @@
                     <?php
                     //set navigation bar when logged in
                     if(isset($_SESSION['user_id'])){ echo'
-                   
+                    <li class="nav-item">
+                        <a class="nav-link" href="reservation.php" >New Reservation</a>
+                    </li>
                     <li class="nav-item">
                         <a class="nav-link" href="view_reservations.php" >View Reservations</a>
                     </li>';
@@ -85,9 +87,7 @@
                     <li class="nav-item">
 	                 <a class="nav-link" href="#aboutus">About Us</a>
 	             </li>
-                    <li class="nav-item">
-                        <a class="nav-link" href="#reservation">Reservation</a>
-                    </li>
+                   
                     <li class="nav-item">
                         <a class="nav-link" href="#footer">Find Us</a>
                     </li>
