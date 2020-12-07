@@ -102,7 +102,7 @@
 <section class="map" id="footer">
     <div class="container">
     <h3 class="text-center"><br><br>Find us!</h3><br>
-        <iframe src= div style="max-width:100%;overflow:hidden;color:red;width:500px;height:500px;"><div id="mymap-canvas" style="height:100%; width:100%;max-width:100%;"><iframe style="height:100%;width:100%;border:0;" frameborder="0" src="https://www.google.com/maps/embed/v1/place?q=saudi+arabia&key=AIzaSyBFw0Qbyq9zTFTd-tUY6dZWTgaQzuU17R8"></iframe></div><a class="embedded-maphtml" rel="nofollow" href="https://www.embed-map.com" id="authmap-data">https://www.embed-map.com</a><style>#mymap-canvas img{max-width:none!important;background:none!important;font-size: inherit;font-weight:inherit;}</style></div> style= "width:100%;  height:250px; border:0;" allowfullscreen></iframe>
+        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d14950917.643677495!2d36.04780450236896!3d23.814104686216396!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x15e7b33fe7952a41%3A0x5960504bc21ab69b!2sSaudi%20Arabia!5e0!3m2!1sen!2sph!4v1607333559944!5m2!1sen!2sph" width="600" height="450" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
     
         <div class="row staff">
             <div class="col">
