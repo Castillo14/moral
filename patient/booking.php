@@ -85,8 +85,8 @@
 					<label>
 						 Payment: <select name="payment" required>
 										<option value="">-select-</option>
-										<option value="Rocket">Rocket</option>
-										<option value="bKask">bKask</option>
+										<option value="Rocket">Bank</option>
+										<option value="bKask">Cash</option>
 									</select>
 					</label><br><br>
 					<label>
