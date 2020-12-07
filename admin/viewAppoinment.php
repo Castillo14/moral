@@ -71,7 +71,7 @@
 	
 
 	
- <?php include('footer.php'); ?>
+ 
 
 
 	
