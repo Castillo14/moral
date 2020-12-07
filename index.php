@@ -26,10 +26,10 @@
          </ol>
         <div class="carousel-inner">
            <div class="carousel-item active">
-             <img class="d-block w-100" src="img/3.jpeg" alt="First slide">
+             <img class="d-block w-100" src="img/1.jpeg" alt="First slide">
            </div>
            <div class="carousel-item">
-           <img class="d-block w-100" src="img/4.jpeg" alt="Second slide">
+           <img class="d-block w-100" src="img/2.jpeg" alt="Second slide">
            </div>
            <div class="carousel-item">
            <img class="d-block w-100" src="img/5.jpeg" alt="Third slide">
