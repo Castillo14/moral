@@ -61,9 +61,7 @@
                     <?php
                     //set navigation bar when logged in
                     if(isset($_SESSION['user_id'])){ echo'
-                    <li class="nav-item">
-                        <a class="nav-link" href="reservation.php" >New Reservation</a>
-                    </li>
+                   
                     <li class="nav-item">
                         <a class="nav-link" href="view_reservations.php" >View Reservations</a>
                     </li>';

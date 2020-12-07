@@ -88,12 +88,7 @@
 </div><br><br> -->
 <!----end of gallery -->
 
-<div class="container" id="reservation">
-    <h3 class="text-center"><br><br>Reservation<br><br></h3>
-   <!--  <img  src="img/16.jpg" class="img-fluid rounded"> -->
-    <button type="button" onclick="window.location.href='reservation.php'" class="btn btn-outline-dark btn-block btn-lg">Make an appointment Now!</button>
-        
-</div><br><br>
+
 
 <!-- <div class="header2">
 </div> -->
