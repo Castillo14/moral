@@ -1,6 +1,6 @@
 						<?php	$servername = "localhost";
 								$username = "urafnghd_root";
-								$password = "reniertrenuela9";
+								$password = "";
 								$dbname = "urafnghd_moral";
 
 								// Create connection
