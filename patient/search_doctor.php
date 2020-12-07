@@ -19,8 +19,9 @@
 					<!-- testing -->
 					<label>
 						Search By:<select name="address" type="text" style="width: 110px;margin-right: 175px;" />
-												<option>-Select-</option>
-												<option>Expertise</option>
+												<option>-Select Location-</option>
+												<option>makati</option>
+												<option>ksa</option>
 												
 												
 											</select>
